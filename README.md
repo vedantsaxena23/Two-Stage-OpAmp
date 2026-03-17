@@ -40,19 +40,25 @@ This project presents the **design and simulation of a two-stage CMOS operationa
 ## 📊 DC Analysis
 
 ### 🔹 Testbench
-
 ![DC Testbench](schematics/DC_tb_schematic.png)
 
-### 🔹 Key Results
+---
 
-* **DC Gain:** 72.95 dB
-* **CMRR:** 53 dB
-* **Power Dissipation:** 14.4 µW
+### 🔹 Open-Loop Gain
+![Open Loop Gain](results/Open_loop_gain.png)
+
+---
+
+### 🔹 Key Results
+- **DC Gain:** 72.95 dB  
+- **CMRR:** 53 dB  
+- **Power Dissipation:** 14.4 µW  
+
+---
 
 ### 🔹 Operating Range
-
-* **ICMR:** 540 mV – 1.23 V
-* **OCMR:** 55 mV – 1.513 V
+- **ICMR:** 540 mV – 1.23 V  
+- **OCMR:** 55 mV – 1.513 V  
 
 ---
 
