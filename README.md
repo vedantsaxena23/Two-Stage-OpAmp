@@ -45,7 +45,7 @@ This project presents the **design and simulation of a two-stage CMOS operationa
 ---
 
 ### 🔹 Open-Loop Gain
-![Open Loop Gain](results/Open_loop_gain_phase.png)
+![Open Loop Gain](results/Open_loop_gain_phase.jpg)
 
 ---
 
